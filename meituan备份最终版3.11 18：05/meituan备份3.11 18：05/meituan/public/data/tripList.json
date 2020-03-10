@@ -1,0 +1,42 @@
+[
+  {
+    "name": "北京爱琴海玫瑰公园",
+    "id": 1,
+    "star": 3.2,
+    "discount": 5.0,
+    "soldCount": 8432,
+    "price": 335,
+    "address": "大兴区",
+    "imgUrl": "https://p1.meituan.net/200.0/hotel/10f47f63b18ae73ac60c5e81691a7579215012.jpg.webp"
+  },
+  {
+    "name": "北京爱琴海玫瑰公园",
+    "id": 2,
+    "star": 1.9,
+    "discount": 2.0,
+    "soldCount": 2888,
+    "price": 37,
+    "address": "大兴区",
+    "imgUrl": "https://p1.meituan.net/200.0/hotel/10f47f63b18ae73ac60c5e81691a7579215012.jpg.webp"
+  },
+  {
+    "name": "玫瑰公园",
+    "id": 3,
+    "star": 4.9,
+    "discount": 5.0,
+    "soldCount": 2.4,
+    "price": 67,
+    "address": "望京",
+    "imgUrl": "https://p0.meituan.net/200.0/hotel/b8fee143d118c1b3c3688e7bc4a734d3592559.jpg.webp"
+  },
+  {
+    "name": "北京爱琴海玫瑰公园",
+    "id": 4,
+    "star": 4.6,
+    "discount": 2.5,
+    "soldCount": 1888,
+    "price": 127,
+    "address": "大兴区",
+    "imgUrl": "https://p1.meituan.net/200.0/hotel/10f47f63b18ae73ac60c5e81691a7579215012.jpg.webp"
+  }
+]

@@ -1,0 +1,103 @@
+{
+	"ad": [
+		{
+			"title": "电影节礼包",
+			"description": "赢50元券",
+			"id": "1",
+			"url": "01.png"
+		},
+		{
+			"title": "10元毕业游",
+			"description": "学生过暑期",
+			"id": "2",
+			"url": "02.png"
+		},
+		{
+			"title": "旅拍跳楼价",
+			"description": "0元住城堡",
+			"id": "3",
+			"url": "03.png"
+		}
+	],
+	"list": [
+		{
+			"img": "05.jpg",
+			"title": "掉香缘渣饼",
+			"sales": 44,			"price": 87,
+			"originPrice": 128,
+			"id": "1"
+		},
+		{
+			"img": "06.jpg",
+			"title": "东来顺饭店",
+			"sales": 101,
+			"price": 13,
+			"originPrice": 30,
+			"id": "2"
+		},
+		{
+			"img": "01.jpg",
+			"title": "华莱士",
+			"sales": 241,
+			"price": 89,
+			"originPrice": 105,
+			"id": "3"
+		},
+		{
+			"img": "02.jpg",
+			"title": "奶茶嫁给粉",
+			"sales": 13126,
+			"price": 45.5,
+			"originPrice": 60,
+			"id": "4"
+		},
+		{
+			"img": "03.jpg",
+			"title": "马路边边串串香",
+			"sales": 9890,
+			"price": 49.9,
+			"originPrice": 70,
+			"id": "5"
+		},
+		{
+			"img": "04.jpg",
+			"title": "虾吃虾涮虾火锅",
+			"sales": 8,
+			"price": 88,
+			"originPrice": 260,
+			"id": "6"
+		},
+		{
+			"img": "07.jpg",
+			"title": "西焱牛排自助",
+			"sales": 3,
+			"price": 275,
+			"originPrice": 300,
+			"id": "7"
+		},
+		{
+			"img": "08.jpg",
+			"title": "全聚德",
+			"sales": 1226,
+			"price": 400,
+			"originPrice": 305,
+			"id": "8"
+		},
+		{
+			"img": "09.jpg",
+			"title": "兰州拉面",
+			"sales": 11,
+			"price": 14,
+			"originPrice": 8,
+			"id": "9"
+		},
+		{
+			"img": "10.jpg",
+			"title": "河间驴肉火烧",
+			"sales": 90,
+			"price": 68,
+			"originPrice": 148,
+			"id": "10"
+		}
+	]
+}
